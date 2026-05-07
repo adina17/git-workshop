@@ -1,2 +1,3 @@
 Hey! 
-this is the EGU2026 workshop o gitx
+this is the EGU2026 workshop on git
+https://github.com/adina17/git-workshop
